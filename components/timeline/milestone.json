@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_timeline_milestones",
+  "info": {
+    "name": "Milestone",
+    "icon": "child"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
